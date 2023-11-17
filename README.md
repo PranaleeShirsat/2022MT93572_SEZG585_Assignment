@@ -29,4 +29,4 @@ A Flutter project to maintain and manage list of tasks.
 5. Similarly, if the user tries to update the task with empty title or description, a validation is shown to the user saying that the details are empty and hence the task cannot be updated.
 6. User can also delete the tasks from the home page using the "bin" icon
 
-# Dart file with code is present in location: lib/main.dart
+**Dart file with code is present in location: lib/main.dart**
