@@ -1,4 +1,5 @@
-![image](https://github.com/PranaleeShirsat/2022MT93572_SEZG585_Assignment/assets/150386266/34fd1e34-3b90-443d-a529-2db5b734a726)# 2022MT93572_SEZG585_Assignment
+![image](https://github.com/PranaleeShirsat/2022MT93572_SEZG585_Assignment/assets/150386266/34fd1e34-3b90-443d-a529-2db5b734a726)
+# 2022MT93572_SEZG585_Assignment
 SEZG585 Assignment: Flutter App with Back4App Integration.
 Author:
 Name: Shirsat Pranalee Prashant Vrushali
@@ -13,13 +14,14 @@ A Flutter project to maintain and manage list of tasks.
 2. On Android Studio create a virtual device for running application on mobile or connect a physical mobile to the android studio.
 3. Deploy the application on mobile and run the application.
 
-##Bonus Feature:
+## Bonus Feature:
 1. Feature to edit and update existing tasks with validations.
 2. Feature to delete tasks.
 3. Additional enhancements:
-      Show validationsif the title or desription of task is empty while creating new task or updating existing task.
-      Show validation when user tries to update task without making any changes to the task.
-   
+      *Show validationsif the title or desription of task is empty while creating new task or updating existing task.
+      *Show validation when user tries to update task without making any changes to the task.
+
+##Description of features:
 1. User can update the existing tasks.
 2. Once the user open the task by clicking or tapping on the task, the details of the tasks are displayed including the task title, task description and the status of the task (Done or Pending).
 3. User can edit the title or the description of the task on this page and click on "Update" button to edit the task.
@@ -27,4 +29,4 @@ A Flutter project to maintain and manage list of tasks.
 5. Similarly, if the user tries to update the task with empty title or description, a validation is shown to the user saying that the details are empty and hence the task cannot be updated.
 6. User can also delete the tasks from the home page using the "bin" icon
 
-**#Code is present in location: lib/main.dart**
+# Dart file with code is present in location: lib/main.dart
