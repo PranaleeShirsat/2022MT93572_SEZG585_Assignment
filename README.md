@@ -16,6 +16,9 @@ A Flutter project to maintain and manage list of tasks.
 ##Bonus Feature:
 1. Feature to edit and update existing tasks with validations.
 2. Feature to delete tasks.
+3. Additional enhancements:
+      Show validationsif the title or desription of task is empty while creating new task or updating existing task.
+      Show validation when user tries to update task without making any changes to the task.
    
 1. User can update the existing tasks.
 2. Once the user open the task by clicking or tapping on the task, the details of the tasks are displayed including the task title, task description and the status of the task (Done or Pending).
