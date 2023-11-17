@@ -15,10 +15,13 @@ A Flutter project to maintain and manage list of tasks.
 
 ##Bonus Feature:
 1. Feature to edit and update existing tasks with validations.
-2. User can update the existing tasks.
-3. Once the user open the task by clicking or tapping on the task, the details of the tasks are displayed including the task title, task description and the status of the task (Done or Pending).
-4. User can edit the title or the description of the task on this page and click on "Update" button to edit the task.
-5. If the user clicks on "Update" button without making any changes to the task's title or description, a validation message is shown to the user saying that no changes were made to the task details, indicating that tasks cannot be updated.
-6. Similarly, if the user tries to update the task with empty title or description, a validation is shown to the user saying that the details are empty and hence the task cannot be updated.
+2. Feature to delete tasks.
+   
+1. User can update the existing tasks.
+2. Once the user open the task by clicking or tapping on the task, the details of the tasks are displayed including the task title, task description and the status of the task (Done or Pending).
+3. User can edit the title or the description of the task on this page and click on "Update" button to edit the task.
+4. If the user clicks on "Update" button without making any changes to the task's title or description, a validation message is shown to the user saying that no changes were made to the task details, indicating that tasks cannot be updated.
+5. Similarly, if the user tries to update the task with empty title or description, a validation is shown to the user saying that the details are empty and hence the task cannot be updated.
+6. User can also delete the tasks from the home page using the "bin" icon
 
 **#Code is present in location: lib/main.dart**
